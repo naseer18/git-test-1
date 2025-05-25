@@ -1,5 +1,0 @@
-{
-    "CodeGPT.apiKey": "Ollama",
-    "ollama-autocoder.model": "codegpt-deepseek:latest",
-    "ollama-autocoder.completion keys": " ~"
-}
